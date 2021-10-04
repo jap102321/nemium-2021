@@ -142,6 +142,11 @@ nav details summary{
   cursor: pointer;
 }
 
+nav li{
+  margin: 1rem 0;
+  padding: 8px;
+}
+
 
 
 /* body */
@@ -204,6 +209,10 @@ blockquote span::before{
   content: '-'
 }
 
+span{
+  font-style: italic;
+  font-weight: bold;
+}
 
 .wrapper{
   max-width: 902px;

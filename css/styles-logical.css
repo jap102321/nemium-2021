@@ -140,7 +140,7 @@ header a:hover{
 
 
 nav details summary{
-  color: var(--white10);
+  color: #A5A3A5;
   font-weight: bold;
 }
 
@@ -219,6 +219,11 @@ blockquote{
 
 blockquote p{
   color:(--white30)
+}
+
+span{
+  font-weight: bold;
+  color: #a5a3a5;
 }
 
 .section-content img{

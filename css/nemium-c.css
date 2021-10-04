@@ -160,7 +160,10 @@ nav details summary{
 .nav hr{
   border: 1px solid rgba(97, 97, 97, 0.2);
 }
-
+nav li{
+  margin: 1rem 0;
+  padding: 8px;
+}
 
 /* body */
 /* h1 + p{
@@ -227,6 +230,10 @@ blockquote span::before{
   content: '-'
 }
 
+span{
+  font-weight: bold;
+
+}
 
 .wrapper{
   max-width: 902px;
