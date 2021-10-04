@@ -47,9 +47,9 @@ a{
 }
 
 .header{
-  clear: right;
+
   margin-block-start: 0px;
-  float: right;
+
 }
 .header-content{
   padding-inline:24px;
@@ -449,6 +449,9 @@ blockquote span::before{
     position: sticky;
     inset-block-start: -55px;
     scroll-behavior: smooth;
+     clear: right;
+    margin-block-start: 0px;
+    float: right;
   }
   nav li{
     margin: 1rem 0;
