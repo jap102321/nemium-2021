@@ -438,7 +438,7 @@ span{
   }
   h1{
     font-size: 60px;
-    margin-block-start: 64px;
+    margin-block-start: 0px;
   }
   .section-content:last-child{
       margin-block-start: 40px;
